@@ -1,0 +1,41 @@
+                                --------------------------------week 1--------------------------------------
+# term "bug" or "fault" was first used by edison
+# term "error" is first used by ada lovelace
+types of testing:
+----------------
+   1.unit testing : done by a develpoer
+   2.integration testing : software and hardware combination testing
+   3.system testing : platform in which system is running
+   4.acceptance testing : done by the custmor also called as beta testing,a beta version is released.
+   5.functional testing : whether it meets all the functionalities
+   6.stress testing : how much load can that software handel
+   7.performance testing : to check speed
+   8.usability testing : to evaluate user interface aesthtics
+   9.regression testing : done after modifing or adding new features
+Black box testing: dont check internal design,but checks functionalities[unit,integration,system,acceptance,usability,performance,beta,stress testing]
+White box testing:checks internal design and functionalities[unit,integration,system testing]
+Four activities of testing:
+  1.test design
+  2.test automation
+  3.test execution
+  4.test evaluation
+test management ,test maintenance,test documantation
+RIPR model(to observe failures)
+  reachability:reach the fault
+  infection:state of program must be incorrect
+  propagation:infected must give some output to be incorrected
+  reveal:tester should observe incorrected state
+Model based testing
+  1.formal,mathematical notation(finate state machine,graphs,logical formulas)
+  2.language that supports several entities for modeling(uml,sysml,simulink,stateflow)
+graphs,local expressions,sets,grammar
+test requirements:a specific element of a software artifact that a test case must meet/cover
+coverage criterion:a collection of rules that impose requirements on a set of testcase
+junit: used in java for testing
+import org.junit.Test;
+import static org.junit.Assert.*;
+few premative models are:
+      >assertTrue(boolen)
+      >assertTrue(string,boolen)
+      >fail(string)
+      ----------------------------------week 2---------------------------------------
