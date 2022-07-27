@@ -1,0 +1,72 @@
+1. Choose the right option to fill in the blank: Suppose a method M1M1 calls a method M2M2, which in turn, calls another method M3M3. The level of testing that tests for the interface of calls from M1M1 to M2M2 and then to M3M3 is called as . . . . . . . . . . . ..
+
+a. Functional testing.
+b. Unit testing.
+c. Integration testing.
+d. System testing.
+
+Answer:- c
+
+2. State true or false: A coverage criterion C1 said to subsume another coverage criterion C2 if there is at least one test case that satisfies C1 which also satisfies C2.
+
+a. True.
+b. False.
+
+Answer:- b
+3. State true or false: Testing can be used to find all the errors in code.
+
+a. True.
+b. False.
+
+Answer:- a
+4. Which of the following are practised in level 3 thinking during testing?
+
+a. Testing is a mental discipline, everyone in an organization strives to test thoroughly.
+b. Testing is done mainly by developers, to debug their code.
+c. Testing is done to identify failures and reduce risks.
+d. Testing is done to show absence of errors.
+
+Answer:- c
+5. Which of the following best defines usability testing?
+
+a. Testing done to ensure that the software looks nice.
+b. Testing done to ensure that the software is usable by all the users.
+c. Testing done to understand how users can use a software.”
+d. Testing done to ensure that the user interface of the software is as specified in the requirements
+
+Answer:- d
+6. Which of the following is a list of white-box testing techniques?
+
+a. Unit testing, performance testing.
+b. Integration testing, stress testing.
+c. Unit testing, integration testing.
+d. Usability testing, performance testing.
+
+Answer:- c
+Next Week Assignment Answers Join Telegram Channel JOIN
+7. As per the lectures, which of the following sentences best defines a test case?
+
+a. A test case contains only inputs to the software artifact.
+b. A test case contains inputs to the software artifact along with the expected outputs
+c. A test case contains inputs to the software artifact and a decision on pass or fail.
+d. A test case contains inputs to the software artifact, which is run and the actual output is also recorded as a part o f the test case.
+
+Answer:- b
+8. When do we say that a set of test cases T satisfies the test requirements TR for a coverage criterion C?
+
+a. For every test requirement tr ∈ TR, there is exactly one test case t ∈ T such that t satisfies tr.
+b. For some test requirement tr ∈ TR, there is some test case tt such that t∈T such that t satisfies tr.
+c. For some test requirement tr∈TR, all the test cases t∈T are such that tt satisfies tr.
+d. For every test requirement tr ∈ TR, there is at least one test case t ∈ T such that t satisfies tr.
+
+Answer:- d
+9. When do we say that a coverage criterion C1 subsumes a coverage criterion C2?
+
+Answer:- b 
+10. What does the JUnit assertion assertFalse(val1 > val2) return whenval1 is less than val2?
+
+a. True.
+b. False.
+
+Answer:- b
+------------------------------------
