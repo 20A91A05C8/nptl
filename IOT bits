@@ -33,6 +33,133 @@ Which of the following is a distance measuring sensor module?
  b. HC-SR04
  c. TSL2591
  d. HC-SR505
+ ------------week2-------------
+ Q1. Which of the following protocol is used to implement device management for mobile devices?
+
+a. OMA-DM
+b. Websocket
+c. Alljoym
+d. DNS-SD
+
+
+ 
+Answer:- a
+2. In LOADng, can intemediate routers respond to Route Requests (RREQs)?
+
+a. Yes, in any case
+b. Yes, only when RREQ flooding occurs
+c. Yes, only if they have active routes to the sought destination
+d. No
+
+Answer:- d
+3. Which of the following functions as the network bridge in IEEE 802.15.4 network?
+
+a. PAN Coordinator
+b. Router
+c. Device
+d. None of these
+
+Answer:- b
+4. Which of the following allow communication between Zigbee and no-Zigbee devices?
+
+a. layer-5 application-level bridge
+b. layer-7 application-level gateway
+c. layer-7 application-level bridge
+d. layer-5 application-level gateway
+
+Answer:- c
+5. Statement I: RFIDs are radio-frequency-based.
+Statement II: RFID devices can act as both readers as well as tags.
+Which one of the following is correct?
+
+a. Statement I is true but Statement II is false
+b. Statement I is false but Statement II is true
+c. Both the statements are true
+d. Both the statements are false
+
+
+ 
+Answer:- c
+6. In AMQP, which of the following funetionality defines its component “exchange”?
+
+a. linkage between various queues
+b. receives messages from various queues
+c. defines rules for message routing to various queues
+d. routing the messages to various queues
+
+Answer:- d
+7. Which of the following is designed to have low overhead and better scalability in tems of dense networks?
+
+a. LOADng
+b. RPL
+c. Both LOADng and RPL
+d. AODV
+
+Answer:- a
+
+ 
+8. Which of the following AMQP frame type controls the message flow rate?
+
+a. Transfer
+b. Flow
+c. Control
+d. Disposition
+
+Answer:- b
+9. Does 6LoWPAN allow interoperability between IEEES02.15.4-based wireless devices and other IP-based devices?
+
+a. Yes
+b. No
+
+Answer:- a
+10. In the context of XMPP, which of the following correctly defines BOSH?
+
+a. XML streaming
+b. HTTP binding
+c. Both XML streaming and HTTP binding
+d. Binary encoding
+
+Answer:- b
+
+ 
+11. Does MQTT support event-driven architecture?
+
+a. Yes
+b. No
+
+Answer:- a
+12. Which of the following is the acronym for “Extensible Messaging and Presence Protocol”?
+
+a. EMPP
+b. XMLP
+c. XMPP
+d. XMP
+
+Answer:- c
+13. An loT network requires communication mechanism, which is capable of synchronous as well as asynchronous communication. The mechanism should support both request-response, as well as publish-subscribe models. Which of the following protocol would be best suited for such a mechanism?
+
+a. AMQP
+b. CoAP
+c. MQTT
+d. None of these
+
+Answer:- c
+14. Which of the following technique is used to transmit data frames in Beacon-enabled IEEE S02.15.4 networks?
+
+a. unslotted CSMA/CA
+b. slotted CSMA/CA
+c. unslotted CSMA/CD
+d. slotted cSMA/CD
+
+Answer:- b
+15. What is the maximum size of hop limit in 6LoWPAN packet format?
+
+a. 8-bit unsigned integer
+b. 16-bit unsigned integer
+c. 8-bit signed integer
+d. 16-bit signed integer
+
+Answer:- a
 Yes, the answer is correct.
 Score: 1
 Accepted Answers:
@@ -127,3 +254,141 @@ Can a point of node failure result in the partition of the network in the statio
  a. Yes
  b. No
 Answer:yes
+----------------week3----------------------
+
+1. Which of the following handles packets, paging and inquiry in Bluetooth?
+
+a. L2CAP
+b. Baseband
+c. RFComm
+d. Physical Radio
+
+
+ 
+Answer:- b
+2. Which of the following incorporates channel hopping after every packet transmission?
+
+a. Zigbee
+b. WirelessHART
+c. 6LoWPAN
+d. None of these
+
+
+ 
+Answer:- d
+Answers will be Uploaded Shortly and it will be Notified on Telegram, So JOIN NOW
+
+NPTEL Introduction To Internet Of Things Assignment 3 Answers 2022
+3. In “X protocol, a central network controller device sets-up a network with 1 Network ID and multiple node IDs for the devices in it. The nodes with different Network IDs cannot communicate with each other. What is “X*”2
+
+a. Z-wave
+b. Zigbee
+c. Bluetooth
+d. ISA 100.11A
+
+Answer:- a
+4. In the context of Sensor Web, SensorML stands for
+
+a. Sensor Modeling language
+b. Sensor Machine language
+c. Sensor Markup language
+d. None of the above
+
+Answer:- a
+5. Which of the following protocol is best suited to provide interference-free communication while minimizing latency and ensuring quality of service?
+
+a. WirelessHART
+b. ISA100.11A
+c. Both WirelessHART and ISA100.11A
+d. None of these
+
+
+ 
+Answer:- d
+6. Which of the following solution approach is used to overcome the limitation of ineffective wakeup and sensing under rare event monitoring scenario in social sensing?
+
+a. Duty-cycle management
+b. Sleep-cycle management
+c. Packet transmission management
+d. Both duty-cycle and sleep-cycle management
+
+Answer:- a
+👇For Week 04 Assignment Answers👇
+
+NPTEL Introduction To Internet Of Things Assignment 3 Answers 2022
+
+ 
+7. Which of the following technique Bluetooth master uses to avoid collisions during transmission in a Piconet?
+
+a. Frequeney Division Multiplexing d Ou
+b. Frequency Hopping Spread Spectrum
+c. Time Division Multiplexing
+d. Direct Sequence Spread Spectrum
+
+Answer:- c
+8. Which of the following limitation is faced by total co-operation in Wireless Ad Hoc and Sensor Networks?
+
+a. Decreasing network throughput
+b. Decreasing energy
+c. Both (a) and (b)
+d. No limitation exists
+
+Answer:- c
+9. Which of the following can function over a reliable packet transfer protocol?
+
+a. L2CAP
+b. Service Discovery Protocol
+c. RFComm
+d. Physical Radio
+
+Answer:- b
+
+ 
+10. In which of the following mode, NFC devices can act as both readers as well as tags?
+
+a. Reader/writer
+b. P2P
+c. Emulation
+d. NFC devices can’t act as both readers as well as tags
+
+Answer:- b
+11. In WSN, Information theoretic self-management (INTSEM) controls the transmission rate of a node by adjusting a node’s
+
+a. Duty cycle
+b. Lifetime
+c. Sleep time
+d. Can’t control the transmission rate
+
+Answer:- a
+12. Which of the following layer of ISA 100.11A supports mesh routing?
+
+a. Netwok layer
+b. Data link layer
+c. Transport layer
+d. MAC layer
+
+Answer:- b
+13. Which of the following is used to avoid interference-prone channels in HART?
+
+a. Channel blacklisting
+b. Channel switching
+c. Channel hopping
+d. Super-trames
+
+Answer:- b
+14. When the devices are not in range, messages are routed through different nodes to bypass obstructions created by household appliances or layouts. Which of the following exhibit such characteristic of avoiding radio dead-spots?
+
+a. Bluetooth
+b. 6LoWPAN
+c. Z-wave
+d. Zigbee
+
+Answer:- c
+15. Which of the following is TRUE in tems of power (in mW) and range (in m) of the classes of Bluetooth devices?
+
+a. Class-1: Power=100mW, Range=100m
+b. Class-2: Power=2.5 mW, Range=100m
+c. Class-1: Power=2.5 mW, Range=100m
+d. Class-2: Power=100 mW, Range=100m
+
+Answer:- a
